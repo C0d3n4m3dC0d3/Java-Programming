@@ -1,0 +1,85 @@
+COMPLETED PROGRAMS
+Topic: Basics
+       1. Hello World Program
+
+Topic: Strings
+       1. Creation of Strings:
+          Using constructor
+          Using Literal
+       2. String class Methods:
+
+
+       3. StringBuffer class Methods:
+
+
+Topic: Abstract Class
+       A. Need to do (not done yet; only read):
+          abstract class with abstract method only
+          abstract class with abstract and non-abstract methods
+          abstract class with public static final data members only
+          abstract class with default method
+
+Topic: Inheritance
+       A. Need to do (not done yet; only read):
+          Simple Inheritance
+          Multilevel Inheritance
+          Hierarchical Inheritance
+          Method Overriding
+          super keyword
+          final keyword
+          static keyword
+
+       B. done
+          1. Dynamic Method Dispatch
+          2. Calling superclass constructor by default (Super.java)
+
+Topic: Interface
+       A. Need to do (not done yet; only read):
+          Multilevel Inheritance
+
+Topic: Exception Handling
+       A. Need to do (not done yet; only read):
+          Exception occurs without Handling
+          Exception handled using try-catch
+          try-finally
+            with exceptions, no handling
+            without exceptions
+            with exception, handling
+          try-catch-finally
+          nested try-catch
+          throw exception
+          throws - declare exception
+          throw - custome/user defined exception
+
+Topic: Threads
+       1. Creation of Threads:
+            By extending Thread Class (Thread0.java)
+            By implementing Runnable Interface (Thread1.java)
+       2. Putting a thread to sleep (Thread2.java)
+       3. Joining a Thread to another (Thread3.java)
+       4. Thread Priority
+       5. Naming Threads
+
+Topic:  APPLET PROGRAMMING
+        1. Simple applet program to print "Hello World!" (SimpleApplet.java)
+        2. Simple applet program to change and initialise string values by passing Parameters (AppletParam.java)
+        3. ActionListener (AppletEvent.java)
+
+Topic: AWT
+       1. Implementing listener #1 [Key Listener] (KeyListens.java)
+       2. Implementing listener #2 [Action Listener] (Actions.java)
+       3. Implementing listener #3 [Mouse Listener] (Mousey.java)
+       4. Implementing listener #4 [Mouse Motion Listener] (MouseyMoves.java)
+       5.
+
+Topic: Files
+       A.Need to do; only read through, not done:
+         FileInputStream
+         FileOutputStream
+         FileReader
+         FileWriter
+         BufferedFileInputStream
+         BufferedFileOutputStream
+         BufferedFileReader
+         BufferedFileWriter
+         Copy data from one file to another
